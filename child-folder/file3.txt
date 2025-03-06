@@ -1,1 +1,2 @@
 This is file3, Hello, World!
+Updated content for file3.
